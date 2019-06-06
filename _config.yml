@@ -16,7 +16,7 @@ defaults:
 title: 
 description: 
 header:
-  image: /assets/images/Bannar_v2.png
+  image: /assets/images/Bannar_v2.2.png
   
 plugins:
   - jekyll-paginate
