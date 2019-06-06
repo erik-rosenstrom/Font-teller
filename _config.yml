@@ -2,7 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: 
 description: 
 header:
-  overlay_image: /assets/images/Bannar_v2.png
+  image: /assets/images/Bannar_v2.png
   
 plugins:
   - jekyll-paginate
