@@ -1,4 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
+
 defaults:
   # _posts
   - scope:
