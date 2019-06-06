@@ -1,6 +1,6 @@
 ---
 layout: splash
-minimal_mistakes_skin: "Dark"
+
 permalink: /
 header:
   image: /assets/images/Bannar_v2.png
