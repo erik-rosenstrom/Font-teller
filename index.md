@@ -3,7 +3,7 @@ layout: splash
 
 permalink: /
 header:
-  image: /assets/images/Bannar_v2.png
+  image: /assets/images/Bannar_v2.2.png
   actions:
     - label: "<i class='fas fa-download'></i> download"
       url: "/docs/quick-start-guide/"   
